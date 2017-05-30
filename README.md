@@ -14,11 +14,18 @@ The distance between C1, C2, C3 and L1 is as follows:
 
 Input:
   values of stocks in order: a b c d e f g h i
+  
 Output:
   The minimum cost according to the conditions
   
+  
   Example:
+  
+  
   Input: 1 2 3 4 5 6 7 8 9
+  
   Output: 1384
+  
   Input: 1 0 0 2 1 0 2 0 1
+
   Output: 300
